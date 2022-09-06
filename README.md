@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning be a programmer
 - 💞️ I’m looking to collaborate in the world of work
 - 📫 contact me by email, hendrikgunawan533@gmail.com
-- 📞 or by phone +62810344540
+- 📞 or by phone +6281210344540
 
 <!---
 hendrik533/hendrik533 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
